@@ -91,7 +91,7 @@ A classificação de "humilhante" como positiva (86%) foi particularmente curios
 # Recursos Úteis
 - **Explore Speech Studio** - [ Speech](https://speech.microsoft.com/).
 
-- **Analyze text with Language Studio** - Learning[Language Studio](https://language.cognitive.azure.com/).
+- **Analyze text with Language Studio** - [ Language Studio](https://language.cognitive.azure.com/).
 
 - **GitHub Quick Start** - Repositório com Link para Aulas de Git e GitHub [ Aulas](https://github.com/digitalinnovationone/github-quickstart).
 
